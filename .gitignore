@@ -1,0 +1,12 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Cuadernos de Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
